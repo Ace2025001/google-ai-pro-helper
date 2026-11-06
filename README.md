@@ -1,20 +1,3 @@
-# 两年 Pro + Antigravity 汉化
-
-**一个入口，两个项目：Google AI Pro 自动化工具 + Antigravity Desktop 中文汉化。**
-
-| 项目 | 入口 |
-| --- | --- |
-| 两年 Pro 自动化工具 | [使用说明](#pro-使用说明)，代码在本仓库 |
-| Antigravity 汉化 | [下载 Windows x64 汉化包](https://github.com/Ace2025001/antigravity-desktop-zhcn/releases/latest/download/antigravity-desktop-zhcn-portable-win-x64.zip) · [安装说明](https://github.com/Ace2025001/antigravity-desktop-zhcn#antigravity-怎么汉化) |
-
-## Antigravity 汉化入口
-
-[**点击下载最新汉化包**](https://github.com/Ace2025001/antigravity-desktop-zhcn/releases/latest/download/antigravity-desktop-zhcn-portable-win-x64.zip) · [发布页与 SHA-256 校验文件](https://github.com/Ace2025001/antigravity-desktop-zhcn/releases/latest)
-
-适用于 **Windows x64 的 Antigravity Desktop 独立桌面客户端**。下载后完整解压，按安装说明运行 `一键汉化.bat`；需要恢复时运行 `一键恢复英文.bat`。便携包内置运行环境，无需自行安装 Node.js。[实时检索｜[汉化项目 README](https://github.com/Ace2025001/antigravity-desktop-zhcn)｜可信度高（项目说明）]
-
-## Pro 使用说明
-
 ========================================================================
   Google AI Pro (5 TB) 零成本两年 (US$0.00 -> 24个月) 全自动控制台
 ========================================================================
@@ -57,4 +40,8 @@
      Step 4: 叠加三层 6 个月免费包 (US$0.00 -> 24个月封顶)
      Step 5: 自动前往 Google Play 取消自动续订，锁死 2 年到期权益并截图验真
 
+---
 
+## Antigravity 汉化
+
+[下载 Windows x64 汉化包](https://github.com/Ace2025001/antigravity-desktop-zhcn/releases/latest/download/antigravity-desktop-zhcn-portable-win-x64.zip) · [安装说明](https://github.com/Ace2025001/antigravity-desktop-zhcn#antigravity-怎么汉化) · [发布页与校验文件](https://github.com/Ace2025001/antigravity-desktop-zhcn/releases/latest)
