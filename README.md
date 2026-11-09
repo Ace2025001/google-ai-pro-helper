@@ -2,16 +2,28 @@
   Google AI Pro (5 TB) 零成本两年 (US$0.00 -> 24个月) 全自动控制台
 ========================================================================
 
-【一、运行环境要求】
+【一、Windows 运行环境要求】
 1. Windows 10 / 11 系统
 2. 已安装 Google Chrome 浏览器（默认路径即可）
 3. 已安装 Python 3.10 或更高版本（安装时勾选 Add Python to PATH）
 4. 网络环境：本机开启美区（US）代理，或在控制台左侧填写代理模板
 
-【二、快速启动步骤】
+【二、Windows 快速启动步骤】
 1. 首次使用请双击运行：【1_首次运行_安装依赖并启动.bat】
 2. 之后日常使用直接双击：【2_启动控制台.bat】
 3. 浏览器会自动打开控制台页面：http://127.0.0.1:8765
+
+### macOS 启动方式
+
+安装 Google Chrome 和 Python 3.10 或更高版本，然后在仓库目录打开终端并运行：
+
+```bash
+bash ./start-macos.command
+```
+
+首次启动会在项目目录创建 `.venv` 并安装依赖。启动后打开终端显示的本地控制台地址。自动化任务默认以无窗口模式启动独立 Chrome，需要查看浏览器窗口时运行 `CHROME_HEADLESS=0 bash ./start-macos.command`。
+
+macOS 支持移植自 [tianrunlin 的 Fork](https://github.com/tianrunlin/Google_AI_Pro_2Year_ZeroCost_Auto/commit/2a7222038392d8302d1493a79fd4ec6edbf32a53)。
 
 【三、自定义填写支付卡 & 跑号说明】
 1. 填写支付卡（必填）：
